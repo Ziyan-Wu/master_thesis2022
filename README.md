@@ -10,7 +10,7 @@
 2. [3D BAG](https://3dbag.nl/en/download)
 
 ## Library used  
-see in `thesis.yml`.
+see in `thesis.yaml`.
 
 ## Explaination
 - **00h5togpkg**. 
