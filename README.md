@@ -30,6 +30,7 @@ This is to explore the `confidence` attribute of the ICESat-2 data. Also incluin
 - **03ground_roof**. 
 
 This is to classify the ground and roof ICESat-2 points. Including use interpolation methods to define the ground elevation and percentile method to define the roof elevation.
+The interpolation is from [previous assignment code](https://github.com/Ziyan-Wu/geo1015/tree/master/hw_01/new)
 
 - **04error**. 
 
@@ -39,4 +40,5 @@ Analyze the accuracy of the calculated result, including ground and roof elevati
 
 This folder includes the machine learning part.
 
-
+- **Interplation**.  
+Code from previous assignment (GEO1015 hw01)
