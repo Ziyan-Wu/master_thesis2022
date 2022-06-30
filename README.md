@@ -9,6 +9,9 @@
 1. [ICESat-2](https://search.earthdata.nasa.gov/search)
 2. [3D BAG](https://3dbag.nl/en/download)
 
+## Library used  
+see in `thesis.yml`.
+
 ## Explaination
 - **00h5togpkg**. 
 
