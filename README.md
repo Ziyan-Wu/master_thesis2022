@@ -31,7 +31,7 @@ This is to explore the `confidence` attribute of the ICESat-2 data. Also incluin
 
 This is to classify the ground and roof ICESat-2 points. Including use interpolation methods to define the ground elevation and percentile method to define the roof elevation.
 
-- **04gexplore**. 
+- **04error**. 
 
 Analyze the accuracy of the calculated result, including ground and roof elevation, building height. Compare it with reference value from 3D BAG.
 
