@@ -18,12 +18,20 @@ This is to clip the two data, making it consistent with the municipal boundary. 
 
 The boundary of municipal is downloaded from OpenStreet Map. Follow the [instruction](https://peteris.rocks/blog/openstreetmap-administrative-boundaries-in-geojson/) here. 
 
-- **02explore**. 
+- **02explore**.
 
-This is 
+This is to explore the `confidence` attribute of the ICESat-2 data. Also incluing the data cleaning steps. The intersection analysis of ICESat-2 data and builidng's footprint is also in this file.
 
 - **03ground_roof**. 
 
-
+This is to classify the ground and roof ICESat-2 points. Including use interpolation methods to define the ground elevation and percentile method to define the roof elevation.
 
 This is the repository for my master thesis in 2022.
+
+- **04gexplore**. 
+
+Analyze the accuracy of the calculated result. Compare it with reference value from 3D BAG.
+
+
+
+
