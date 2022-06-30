@@ -1,11 +1,13 @@
 # Explore the utilization of ICESat-2 data in building height estimation area
+*This is the repository for my master thesis in 2022*.
+
 
 ## What is ICESat-2?
 <https://icesat-2.gsfc.nasa.gov/>
 
 ## Data Source
-1. ICESat-2
-2. 3D BAG <https://3dbag.nl/en/download>
+1. [ICESat-2](https://search.earthdata.nasa.gov/search)
+2. [3D BAG](https://3dbag.nl/en/download)
 
 ## Explaination
 - **00h5togpkg**. 
@@ -26,12 +28,12 @@ This is to explore the `confidence` attribute of the ICESat-2 data. Also incluin
 
 This is to classify the ground and roof ICESat-2 points. Including use interpolation methods to define the ground elevation and percentile method to define the roof elevation.
 
-This is the repository for my master thesis in 2022.
-
 - **04gexplore**. 
 
-Analyze the accuracy of the calculated result. Compare it with reference value from 3D BAG.
+Analyze the accuracy of the calculated result, including ground and roof elevation, building height. Compare it with reference value from 3D BAG.
 
+- **ML part**.  
 
+This folder includes the machine learning part.
 
 
